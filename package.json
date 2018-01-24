@@ -1,0 +1,19 @@
+{
+  "name": "gamee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx webpack-dev-server --open"
+  },
+  "author": "Zuzana Arnoldova",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  },
+  "dependencies": {
+    "pixi.js": "^4.7.0"
+  }
+}
